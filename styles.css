@@ -1,1 +1,9 @@
-
+.main{
+	display:flex;
+}
+.basic{
+	display:flex;
+}
+.progress{
+	display: column !important;
+}
